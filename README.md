@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Taiwan
-<-- Hellooooooooo -->
+<!-- Hellooooooooo -->
 
 🕵 Take a look at my repositories and let's get in touch!
 
