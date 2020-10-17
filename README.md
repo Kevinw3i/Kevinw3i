@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, there 👋
 
 <!--
 **Kevinw3i/Kevinw3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
