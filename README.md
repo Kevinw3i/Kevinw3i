@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
  
 &nbsp;&nbsp;&nbsp;&nbsp;
+<!--
 ## 📈 GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kevinw3i&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;
 <!--
