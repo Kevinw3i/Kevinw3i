@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinw3i&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 ## 🎊 Recent Side projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Kevinw3i&repo=PMasterProject&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
- 
+ -->
 ## 📫 How to reach me
 
 <p align="center">
