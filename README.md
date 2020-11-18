@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!--
 ## 🎊 Recent Side projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Kevinw3i&repo=PMasterProject&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
- -->
-## 📫 How to reach me
 
+## 📫 How to reach me
+ -->
 <p align="center">
 <a href="https://k3vinwei.blogspot.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <!--
