@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
  -->
+<!--
 <p align="center">
 <a href="https://k3vinwei.blogspot.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<p align="center">
+<a href="https://kevinw3i.github.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <!--
 <a href="https://www.linkedin.com/in/kevin-zhao-131710154/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 -->
