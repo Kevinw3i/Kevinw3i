@@ -46,4 +46,4 @@ Here are some ideas to get you started:
  <!--
  <a href="https://www.cakeresume.com/kevin-w" target="blank"><img align="center" src="https://www.cakeresume.com/favicons/favicon.ico" alt="developer.ishan" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 -->
-</p> 
+</p>  
